@@ -2,8 +2,8 @@ const pptr = require("puppeteer");
 
 const _url = "https://www.instagram.com/";
 const profile = {
-    user: 'jhoff.exe',
-    pass: 'Ashisawesome1!',
+    user: 'username',
+    pass: 'password',
     followers: 0,
     following: 0,
 };
